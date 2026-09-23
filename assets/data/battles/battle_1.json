@@ -1,0 +1,9 @@
+{
+  "arena": "arena_1",
+  "music": "audio/battle_theme_1.ogg",
+  "rules": { "canFlee": true },
+  "enemies": [
+    { "id": "Enemy_A", "sprite": "asset_sprites/enemy_1.png", "stats": { "hp": 50, "atk": 8 } },
+    { "id": "Boss_A",  "sprite": "asset_sprites/enemy_1.png", "stats": { "hp": 200, "atk": 15 } }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "test-mod",
+  "name": "Test Mod",
+  "version": "1.0.0",
+  "description": "Doubles enemy HP and draws a HUD label.",
+  "main": "main.js",
+  "priority": 0,
+  "dependencies": [],
+  "overrides": {
+    "asset_sprites/enemy_1.png": "assets/enemy_1_alt.png"
+  }
+}
